@@ -1,6 +1,6 @@
 # .github
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Github config file
 
@@ -14,6 +14,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://ashlyn.nl"><img src="https://avatars.githubusercontent.com/u/58740254?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ashlyn</b></sub></a><br /><a href="#infra-AshlynDev" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/The-Wonder-Server/.github/commits?author=AshlynDev" title="Code">💻</a> <a href="#ideas-AshlynDev" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-AshlynDev" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/IvarvandenBosch"><img src="https://avatars.githubusercontent.com/u/78146502?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ivar van den Bosch</b></sub></a><br /><a href="#design-IvarvandenBosch" title="Design">🎨</a> <a href="https://github.com/The-Wonder-Server/.github/commits?author=IvarvandenBosch" title="Code">💻</a> <a href="#ideas-IvarvandenBosch" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
 </table>
 
