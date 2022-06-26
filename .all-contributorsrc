@@ -16,6 +16,17 @@
         "ideas",
         "projectManagement"
       ]
+    },
+    {
+      "login": "IvarvandenBosch",
+      "name": "Ivar van den Bosch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78146502?v=4",
+      "profile": "https://github.com/IvarvandenBosch",
+      "contributions": [
+        "design",
+        "code",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
