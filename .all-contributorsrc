@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "AshlynDev",
+      "name": "Ashlyn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58740254?v=4",
+      "profile": "https://ashlyn.nl",
+      "contributions": [
+        "infra",
+        "code",
+        "ideas",
+        "projectManagement"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": ".github",
+  "projectOwner": "The-Wonder-Server",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
